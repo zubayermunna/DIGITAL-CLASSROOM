@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
+
+
+
+*{
+
+    margin: 0%;
+    padding-right: 0%;
+}
+body{
+    margin: 10px 30px 0px 30px;
+    padding: 10px 5px 0px 5px;
+    font-family: 'Lato', sans-serif;
+    background-color:rgb(252, 252, 252) ;
+}
+.top{
+    display: flex;
+    width: 100px 90px 100px 90px;
+    background-color: rgb(252, 252, 252);
+    margin-right: 20px;
+    
+   
+}
+.top-left{
+    width: 50%;
+}
+.DCR{
+    font-size: 35px;
+    margin: 5px;
+}
+.IB{
+font-size: 35px;
+color: red;
+margin: 5px;
+}
+#border-left{
+    border-left: 5px solid red;
+    padding: 2px;
+
+}
+#first-paragraph{
+    font-size: 20px;
+    margin: 5px;
+    color:black;
+    opacity: 80%;  
+}
+.top-right{
+    width: 50%;
+}
+.top-right img{
+    width: 110%;
+    }
+    #button-one{
+        width: 180px;
+        background-color: red;
+        padding: 15px;
+        border:none;
+        margin: 10px;
+    }
+    #button-one a{
+        font-size: 16px;
+        text-decoration: none;
+      
+        color: white;
+    }
+    #sc{
+color:black;
+opacity: 80%;   
+margin-left:10px ; }
+#mid-lrn{
+   text-align: center;
+   justify-content: center;
+   margin: 20px;
+   font-size: 35px;
+    
+}
+.mid-our-vision{
+    display: flex;
+    margin-top: 20px;
+}
+.mid-quote{
+    background-color:rgb(204, 208, 221) ;
+    padding: 15px;
+    margin: 20px;
+    color: black;
+    opacity: 80%;
+    border-radius: 5px;
+}
+
+.mid-our-vision img{
+    width:20%;
+    color: black;
+    opacity: 80%;
+}
+#mid-quote-mid{
+    background-color: rgb(255, 255, 171);
+    border-radius: 5px;
+}
+#img-two{
+    width: 88%;
+}
+#mid{
+    margin-top: 50px;
+  
+}
+#img-three{
+    width: 90%;
+}
+#third{
+    margin-top: 50px;
+    
+}
+.footer{
+    background-color:black ;
+    text-align: center;
+    margin: 0px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    opacity: 100%;
+    width: 100%;
+}
+.footer h1{
+    color: white;
+    font-family: 'Lato', sans-serif;
+    opacity: 100%;
+}
+.footer h4{
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 10px;
+    opacity: 100%;
+           }
